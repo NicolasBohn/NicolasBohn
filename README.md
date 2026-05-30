@@ -22,7 +22,7 @@
 
 ### [NexQuant](https://github.com/TPTBusiness/NexQuant)
 
-**Autonomous AI Agent for Quantitative EUR/USD Forex Trading**
+**Autonomous AI Agent for Quantitative Trading**
 
 I am the **lead developer** of NexQuant — an advanced multi-agent AI system that autonomously:
 
