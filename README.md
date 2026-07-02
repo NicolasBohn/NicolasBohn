@@ -69,13 +69,6 @@ Focus areas: protocol-level integrity, API robustness, CSRF/authN flaws, and cry
 
 ---
 
-## 📫 Connect with me
-
-- **GitHub**: [@NicolasBohn](https://github.com/NicolasBohn)
-- **Projects**: [TPTBusiness](https://github.com/TPTBusiness)
-
----
-
 <div align="center">
   <i>Currently building intelligent systems that are both powerful and secure.</i>
 </div>
