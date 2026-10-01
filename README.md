@@ -1,14 +1,9 @@
 <div align="center">
   <h1>Nicolas Bohn</h1>
-
+  <p><strong>Quantitative Developer</strong> — AI-driven trading systems</p>
   <p>
-    <strong>Security Researcher</strong> &bull;
-    <strong>AI Engineer</strong> &bull;
-    <strong>Quantitative Developer</strong>
-  </p>
-
-  <p>
-    Building secure, intelligent systems at the intersection of <strong>cybersecurity</strong>, <strong>artificial intelligence</strong>, and <strong>financial technology</strong>.
+    Building autonomous research and trading agents. Security researcher on the side.
+    Advocate for decentralized, self-custodial and private systems.
   </p>
 
   <a href="https://github.com/TPTBusiness/NexQuant">
@@ -17,58 +12,47 @@
   <a href="https://proton.me/blog/protonmail-security-contributors">
     <img src="https://img.shields.io/badge/Proton-Security_Contributor-6D4AFF?style=for-the-badge&logo=proton&logoColor=white" alt="Proton Security Contributor">
   </a>
-
 </div>
 
 ---
 
-## 🚀 Featured Project
+## NexQuant — Autonomous Multi-Agent Quant Research
 
-### [NexQuant](https://github.com/TPTBusiness/NexQuant)
-**Autonomous AI Agent for Quantitative Trading**
+[NexQuant](https://github.com/TPTBusiness/NexQuant) is a multi-agent system that:
 
-Lead developer of NexQuant — a multi-agent AI system that autonomously:
+- Discovers and generates alpha factors with LLM-driven research agents
+- Evolves and backtests strategies continuously
+- Integrates time-series foundation models (e.g. Kronos) alongside classical factor models
+- Verifies results with mathematical invariants and property-based testing
 
-- 🔎 Discovers and generates novel alpha factors
-- 🧬 Creates, evolves, and backtests trading strategies 24/7
-- 🧠 Uses state-of-the-art LLMs and custom foundation models (Kronos)
-- ✅ Performs rigorous verification with mathematical invariants and property-based testing
-
-Built with a strong focus on reliability, security, and production-grade engineering — from Redis/TimescaleDB infrastructure to live-market strategy validation.
+Validation: walk-forward / out-of-sample testing, cost & slippage modelling.
+Infra: Redis · PostgreSQL/TimescaleDB · QLib · llama.cpp
 
 ---
 
-## 🔍 Security Research
+## Principles
 
-I research vulnerabilities across critical infrastructure and contribute to open-source security hardening.
-
-- 🏆 Recognized in the official [Proton Mail Security Contributors](https://proton.me/blog/protonmail-security-contributors) list
-- 🌐 Active bug bounty researcher targeting blockchain infrastructure (consensus/API layers, on-chain systems)
-- 🛠️ Toolset: Slither, Mythril, Foundry, Semgrep, cargo-audit
-
-Focus areas: protocol-level integrity, API robustness, CSRF/authN flaws, and cryptographic edge cases.
+I build for and support **decentralized, permissionless and private systems** —
+Bitcoin, self-custody, self-hosted infrastructure, end-to-end encryption.
+Code you can verify beats institutions you have to trust.
 
 ---
 
-## 🛠️ Tech Stack & Interests
+## Security Research
 
-**Security**
-`Vulnerability Research` `Secure Coding` `Cryptography` `Smart Contract Auditing`
+- Listed in the [Proton Security Contributors](https://proton.me/blog/protonmail-security-contributors) (as *Nicolas Bohn*, 2026)
+- Bug bounty research on on-chain and exchange infrastructure (API, auth, protocol integrity)
 
-**AI & Agents**
-`Multi-Agent Systems` `LLM Orchestration` `Autonomous Research Agents` `Foundation Models`
+---
 
-**Quantitative Finance**
-`Algorithmic Trading` `Factor Discovery` `High-Frequency Backtesting` `On-Chain Market Data`
+## Stack
 
-**Languages**
-`Python` `C/C++` `Rust (exploring)` `Go`
-
-**Tools & Infra**
-`Docker` `Linux` `CUDA` `QLib` `llama.cpp` `PostgreSQL` `Redis` `TimescaleDB`
+**Quant & AI:** `Python` `QLib` `llama.cpp` `Multi-Agent Systems` `Factor Discovery` `Backtesting`
+**Data & Infra:** `PostgreSQL` `TimescaleDB` `Redis` `Docker` `Linux`
+**Exploring:** `Rust`
 
 ---
 
 <div align="center">
-  <i>Currently building intelligent systems that are both powerful and secure.</i>
+  <sub>Contact: you@proton.me · PGP: XXXX XXXX XXXX XXXX</sub>
 </div>
